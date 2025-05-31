@@ -9,7 +9,7 @@ This repository contains a collection of CSS layouts, demonstrating different de
 ## Demo
 
 Check out the live demo:  
-[Live demo](https://diaahsharqawi.github.io/CSS-Layouts/)
+[Live demo](https://itg-software-front-end-internship.github.io/CSS-Layouts/)
 
 ## Features
 
